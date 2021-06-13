@@ -1,0 +1,3 @@
+module JavaPractise {
+	requires okio;
+}
